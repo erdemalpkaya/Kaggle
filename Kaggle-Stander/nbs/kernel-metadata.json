@@ -1,0 +1,17 @@
+{
+  "enable_gpu": false, 
+  "kernel_type": "notebook", 
+  "enable_internet": false, 
+  "language": "python", 
+  "code_file": "stander-customer-transaction.ipynb", 
+  "title": "Stander Customer Transaction", 
+  "kernel_sources": [], 
+  "id_no": 4198653, 
+  "dataset_sources": [], 
+  "competition_sources": [
+    "santander-customer-transaction-prediction"
+  ], 
+  "keywords": [], 
+  "id": "lostrens/stander-customer-transaction", 
+  "is_private": true
+}
