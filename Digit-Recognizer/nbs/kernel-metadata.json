@@ -1,0 +1,17 @@
+{
+  "enable_gpu": false, 
+  "kernel_type": "notebook", 
+  "enable_internet": false, 
+  "language": "python", 
+  "code_file": "digit-recognizer.ipynb", 
+  "title": "digit-recognizer", 
+  "kernel_sources": [], 
+  "id_no": 4131893, 
+  "dataset_sources": [], 
+  "competition_sources": [
+    "digit-recognizer"
+  ], 
+  "keywords": [], 
+  "id": "lostrens/digit-recognizer", 
+  "is_private": true
+}
