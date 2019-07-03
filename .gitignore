@@ -6,3 +6,8 @@ input
 
 kaggle/*/nbs/kernel-metadata.json
 
+*.csv
+
+kaggle/*/nbs/.ipynb_checkpoints/
+
+
