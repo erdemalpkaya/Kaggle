@@ -4,11 +4,10 @@ input
 
 **/input
 
-Kaggle/*/nbs/kernel-metadata.json
+Kaggle/**/kernel-metadata.json
 
 *.csv
 
-Kaggle/*/nbs/.ipynb_checkpoints/
 
 Kaggle/**/.DS_Store
 
