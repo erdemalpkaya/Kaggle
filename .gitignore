@@ -12,3 +12,5 @@ Kaggle/**/kernel-metadata.json
 Kaggle/**/.DS_Store
 
 Kaggle/**/.ipynb_checkpoints
+/root/**/kernel-metadata.json
+/root/**/.DS_Store
